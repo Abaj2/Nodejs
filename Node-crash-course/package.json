@@ -1,0 +1,25 @@
+{
+<<<<<<< HEAD
+    "name": "node",
+    "version": "1.0.0",
+    "description": "node crash course",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "aarav bajaj",
+    "license": "MIT"
+  }
+=======
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aarav bajaj",
+  "license": "MIT"
+}
+>>>>>>> ce10ce19366334e79553e36b015136d67f1ecdc6
